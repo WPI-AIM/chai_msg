@@ -10,6 +10,9 @@ find_package(catkin REQUIRED COMPONENTS
  add_message_files(
    FILES
    ObjectState.msg
+   ObjectCmd.msg
+   WorldState.msg
+   WorldCmd.msg
  )
   generate_messages(
    DEPENDENCIES
