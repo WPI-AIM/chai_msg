@@ -1,2 +1,3 @@
-geometry_msgs/WrenchStamped wrench_cmd
-float32[3] joints_cmd
+Header header
+geometry_msgs/Wrench wrench
+float32[3] joint_cmds

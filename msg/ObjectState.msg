@@ -5,5 +5,5 @@ float32 chai_wall_time
 float32 chai_sim_time
 float32 mass
 geometry_msgs/Point pInertia
-geometry_msgs/Pose pose_cur
-geometry_msgs/Wrench wrench_cur
+geometry_msgs/Pose pose
+geometry_msgs/Wrench wrench
