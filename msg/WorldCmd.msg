@@ -1,3 +1,3 @@
 bool enable_step_throttling
 bool step_clock
-int8 n_skip_steps
+uint8 n_skip_steps
