@@ -7,3 +7,5 @@ float32 mass
 geometry_msgs/Point pInertia
 geometry_msgs/Pose pose
 geometry_msgs/Wrench wrench
+string userdata_description
+float32[] userdata
