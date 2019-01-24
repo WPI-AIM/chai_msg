@@ -8,7 +8,6 @@ geometry_msgs/Point pInertia
 geometry_msgs/Pose pose
 geometry_msgs/Wrench wrench
 string userdata_description
-string[] children
+string[] children_names
 float32[] userdata
 float32[] joint_positions
-
